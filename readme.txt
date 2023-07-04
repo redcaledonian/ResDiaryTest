@@ -1,4 +1,4 @@
-In order to run this simply open index.html.
+Downnload the files and then run this simply open index.html.
 
 Explanation.
 
